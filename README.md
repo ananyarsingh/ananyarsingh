@@ -39,7 +39,7 @@ Talking about my favourite programming language, Java is always the one!!💖
 <br /><br /><br />
 
 
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyarsingh&&show_icons=true&theme=radical" alt="Ananya's Github Stats">
 </p>  
 
