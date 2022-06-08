@@ -1,10 +1,7 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <br/>
 
-<p align="left">
-<img src ="https://media.giphy.com/media/LmN2chQQyRB4PgCf8U/giphy.gif" >
-</p>
-<br/>
+
 
 <em>I am a 4th Year undergraduate student from <a href="http://www.git.edu/"><b>KLS Gogte Institute of Technology</b></a>. I started with my programming journey at an early age which helped me to gain curiosity about technical things!<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
 Talking about my favourite programming language, Java is always the one!!💖
